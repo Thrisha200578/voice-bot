@@ -76,11 +76,8 @@ If a question doesn't match → it uses **LLM fallback** to generate a response.
 ## ▶️ Run Locally
 
 ### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/ai-voice-interview-agent.git
-cd ai-voice-interview-agent
-```
+git clone https://github.com/Thrisha200578/voicebot.git
+cd voicebot
 
 ### 2. Install dependencies
 
